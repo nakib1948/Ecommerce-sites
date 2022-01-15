@@ -1,0 +1,13 @@
+.background{
+    background-color: #fdd4d4;
+    border-radius: 40px;
+}
+.container{
+    margin-bottom: 50px;
+}
+.carousel-item{
+    padding:30px 40px;
+}
+.price{
+    color: crimson;
+}
